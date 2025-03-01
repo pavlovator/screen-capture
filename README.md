@@ -1,2 +1,2 @@
 # screen_record
-screen-capture-script
+Capture and save screen to mp4 with GStreamer.
